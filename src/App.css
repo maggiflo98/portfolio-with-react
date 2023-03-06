@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.App{
+  background-color:white;
+  color:dark;
+}
+.App.dark{
+  background-color: black;
+  color:white;
+}
+.nav_bar{
+  color: orangered;
+  display: flex;
+  justify-content:space-between ;
+}
+li{
+  list-style: none;
+}
